@@ -59,7 +59,7 @@ d-dimensional vector space. Kmeans is used to cluster the samples finally.
         embeddings: pandas.DataFrame, the low dimensional vector representation of each samples.
         group: pandas.DataFrame, the clustering of samples.
 
-###example:
+### example:
 ```python
     import pandas as pd
     from embedding import MSNE
